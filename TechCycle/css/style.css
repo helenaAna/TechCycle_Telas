@@ -2407,9 +2407,7 @@ legend{
 /* FINALIZANDO A PAGINA cadastro de anuncio */
 
 /* EStilizando A PAGINA aprovações */
-.listaPedidos{
-    /* width: 30vw; */
-}
+
 .listaCadastros {
     width: 69vw; 
 }
@@ -2425,9 +2423,6 @@ legend{
 .lista_interresse div {
     width: 14vw;
 }
-
-
-
 }
 @media screen and (max-width: 376px )
 {
