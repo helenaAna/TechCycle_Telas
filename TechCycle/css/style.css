@@ -217,6 +217,11 @@
     text-transform: uppercase;
 }
 /* Estilo do botão alterar senha  */
+
+.p_senha{
+    font-family: 'Opens Sans', sans-serif;
+    margin-top: 1em;
+}
 .alterar_senha{
     border: solid #EF5BA1 0.1em;
     background-color: #EF5BA1;
